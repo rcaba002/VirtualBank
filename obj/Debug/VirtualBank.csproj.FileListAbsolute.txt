@@ -1,0 +1,6 @@
+C:\Work\Claim\VirtualBank\bin\Debug\VirtualBank.exe.config
+C:\Work\Claim\VirtualBank\bin\Debug\VirtualBank.exe
+C:\Work\Claim\VirtualBank\bin\Debug\VirtualBank.pdb
+C:\Work\Claim\VirtualBank\obj\Debug\VirtualBank.csprojResolveAssemblyReference.cache
+C:\Work\Claim\VirtualBank\obj\Debug\VirtualBank.exe
+C:\Work\Claim\VirtualBank\obj\Debug\VirtualBank.pdb
